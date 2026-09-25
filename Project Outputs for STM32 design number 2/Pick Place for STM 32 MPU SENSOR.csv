@@ -1,0 +1,60 @@
+Altium Designer Pick and Place Locations,,,,,,,
+C:\Users\Public\Documents\Altium\Projects\Alutium Projects\STM32 design number 2\Project Outputs for STM32 design number 2\Pick Place for PCB1.csv,,,,,,,
+,,,,,,,
+========================================================================================================================,,,,,,,
+File Design Information:,,,,,,,
+,,,,,,,
+Date:       24-09-26,,,,,,,
+Time:       10:00,,,,,,,
+Revision:   Not in VersionControl,,,,,,,
+Variant:    No variations,,,,,,,
+Units used: mm,,,,,,,
+,,,,,,,
+Designator,Comment,Layer,Footprint,MID X,MID Y,Rotation,Description
+MHNP4,Mounting hole non plated 3.2mm,Top,MHNP3P2MM,3.9895,4.0112,90,Mounting hole non plated 3.2mm drill hole
+MHNP3,Mounting hole non plated 3.2mm,Top,MHNP3P2MM,78.25,3.75,90,Mounting hole non plated 3.2mm drill hole
+MHNP2,Mounting hole non plated 3.2mm,Top,MHNP3P2MM,4.25,60.25,90,Mounting hole non plated 3.2mm drill hole
+MHNP1,Mounting hole non plated 3.2mm,Top,MHNP3P2MM,78.2395,60.5112,90,Mounting hole non plated 3.2mm drill hole
+X1,Aker 16MHz Crystal SMT,Top,Aker_S5C_Crystal,17.85,17.55,180,Aker S5C SMT Crystal
+U4,STM32F411CEU6,Top,STM-UFQFPN48_L,26.906,28.704,0,"ARM Cortex-M4 32-bit MCU+FPU, 512 KB Flash, 128 KB RAM, 36 I/Os, 48-Pin UFQFPN, -40 to 85 degC, Tray"
+U3,USBLC6-2SC6,Top,SOT95P280X145-6N,57.995,30.3,180,17V Clamp 5A (8/20Âµs) Ipp Tvs Diode Surface Mount SOT-23-6
+U2,MPU-6050,Top,IS-QFN-24_V,49,42.5,270,"3-Axis Gyroscope, Accelerometer and a Digital Motion Processor(TM) (DMP), 2.375 to 3.46 V, -40 to 85 degC, 24-Pin QFN, RoHS, Tape and Reel"
+U1,AMS1117-3.3,Top,FP-AMS1117-IPC_C,72.75,48.5,0,"LDO Voltage Regulators 1A, 3.3V"
+R6,10k,Top,RESC2012X60N,27.5,45.5,270,
+R5,10k,Top,RESC2012X60N,14.75,27.5,180,
+R4,1k,Top,RESC2012X60N,40.5,26.25,0,
+R3,2k2,Top,RESC2012X60N,23.955,37.25,180,
+R2,2k2,Top,RESC2012X60N,23,40.25,180,
+R1,1k,Top,RESC2012X60N,70.5,53.75,180,
+J3,640383-6,Top,TE_640383-6,26.5,5.75,0,"Header, Conn,Interconnect System,PCB Plug,6 Cont,Solder,MTA-156 Series,Straight"
+J2,640383-6,Top,TE_640383-6,26.75,58,0,"Header, Conn,Interconnect System,PCB Plug,6 Cont,Solder,MTA-156 Series,Straight"
+J1,473460001,Top,FP-473460001-MFG,77.67,31.4,90,CONN RCPT USB2.0 MICRO B SMD R/A
+FB2,120R,Top,WE-CBF_HF_0603_HC,9.75,27.75,180,"Ferrite Bead (emi Suppression), 1.6X0.8X0.8MM (0603), 600O Impedance At 100 Mhz"
+FB1,120R,Top,WE-CBF_HF_0603_HC,65.25,37.25,0,"Ferrite Bead (emi Suppression), 1.6X0.8X0.8MM (0603), 600O Impedance At 100 Mhz"
+F1,MF-MSMF050-2,Top,FP-MF-MSMF050-2-MFG,48.5,34.75,0,PTC RESET FUSE 15V 500MA 1812
+D3,GREEN,Top,LEDC2012X70N,35.6,26.25,180,LED Uni-Color Green 4-Pin Chip 0805 T/R
+D2,GREEN,Top,LEDC2012X70N,75.1,53.75,0,LED Uni-Color Green 4-Pin Chip 0805 T/R
+D1,SMBJ5.0A-13-F,Top,FP-SMB-MFG,59.5,37.6,90,TVS DIODE 5V 9.2V SMB
+C23,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,20.183,31.625,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C22,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,18.125,37.25,180,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C21,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,34,33.25,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C20,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,35.75,22.5,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C19,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,35.75,19.25,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C18,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,10.75,31.625,270,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C17,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,17.262,31.625,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C16,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,14.087,31.752,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C15,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,14.875,25,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C14,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,20,22.25,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C13,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,30.75,21,270,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C12,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,12.25,17.5,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C11,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,58.125,26.25,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C10,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,44.5,49.25,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C9,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,43.5,45,270,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C8,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,49.75,49.75,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C7,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,55.25,43.75,270,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C6,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,64,48.5,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C5,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,56,48.5,270,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C4,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,65.25,34.75,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C3,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,65.25,40,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C2,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,65,43,0,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
+C1,100nF Ceramic Multilayer Capacitor_1,Top,CAPCP2012X09N,54,35.75,90,"AVX 0805 Standard 100nF Ceramic Multilayer Capacitor, 50 V dc X7R Dielectric ±10% SMD"
